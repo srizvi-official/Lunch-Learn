@@ -1,3 +1,2 @@
-
-<p> Hi merged</p>
+<p> Hi merged - second feature</p>
 
